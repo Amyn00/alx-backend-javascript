@@ -50,7 +50,7 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 
 Add the files below to your project directory
 
-`**package.json**`
+#### `package.json`
 <details>
   <summary>Click to show/hide file contents</summary>
   ```json
@@ -73,8 +73,8 @@ Add the files below to your project directory
       "jest": "^24.9.0"
     }
   }
-  ```
-</details>
+<details>
+```
 
 `**babel.config.js**`
 
