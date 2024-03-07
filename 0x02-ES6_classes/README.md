@@ -56,6 +56,7 @@ Add the files below to your project directory
 
   <summary>Click to show/hide file contents</summary>
 
+
 ```json
 {
   "scripts": {
@@ -77,15 +78,18 @@ Add the files below to your project directory
   }
 }
 
-</details>
-
 ```
+
+</details>
 
 
 ### `babel.config.js`
 
 <details>
+
   <summary>Click to show/hide file contents</summary>
+
+
 ```js
 module.exports = {
   presets: [
@@ -99,13 +103,19 @@ module.exports = {
     ],
   ],
 };
+
 ```
+
 </details>
 
 ### `.eslintrc.js`
 
 <details>
+
+
   <summary>Click to show/hide file contents</summary>
+
+
 ```js
 module.exports = {
   env: {
@@ -144,7 +154,9 @@ module.exports = {
     }
   ]
 };
+
 ```
+
 </details>
 
 ### and…
