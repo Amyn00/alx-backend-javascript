@@ -4,8 +4,8 @@
 
 **Read or watch:**
 
-* Classes
-* Metaprogramming
+* [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [Metaprogramming](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/#symbolspecies)
 
 ## Learning Objectives
 
@@ -18,13 +18,13 @@
 ## Requirements
 
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-* Allowed editors: vi, vim, emacs, Visual Studio Code
+* Allowed editors: `vi`, `vim`, `emacs`,`Visual Studio Code`
 * All your files should end with a new line
-* A README.md file, at the root of the folder of the project, is mandatory
-* Your code should use the js extension
-* Your code will be tested using Jest and the command npm run test
+* A `README.md` file, at the root of the folder of the project, is mandatory
+* Your code should use the `js` extension
+* Your code will be tested using `Jest` and the command `npm run test`
 * Your code will be verified against lint using ESLint
-* Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
+* Your code needs to pass all the tests and lint. You can verify the entire project running `npm run full-test`
 
 ## Setup
 
@@ -55,7 +55,6 @@ Add the files below to your project directory
 <details>
 
   <summary>Click to show/hide file contents</summary>
-
 
 ```json
 {
@@ -89,7 +88,6 @@ Add the files below to your project directory
 
   <summary>Click to show/hide file contents</summary>
 
-
 ```js
 module.exports = {
   presets: [
@@ -111,7 +109,6 @@ module.exports = {
 ### `.eslintrc.js`
 
 <details>
-
 
   <summary>Click to show/hide file contents</summary>
 
