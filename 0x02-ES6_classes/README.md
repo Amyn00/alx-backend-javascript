@@ -53,7 +53,9 @@ Add the files below to your project directory
 ### `package.json`
 
 <details>
+
   <summary>Click to show/hide file contents</summary>
+
 ```json
 {
   "scripts": {
@@ -74,8 +76,11 @@ Add the files below to your project directory
     "jest": "^24.9.0"
   }
 }
-```
+
 </details>
+
+```
+
 
 ### `babel.config.js`
 
